@@ -11,8 +11,8 @@ public class CreateAuthor {
 				{
 					"id": 20,
 					"idBook" : 10,
-				    "firstName": "sabari",
-				    "lastName": "nathan"
+				    "firstName": "kamala",
+				    "lastName": "kannan"
 				}
 				""";
 		RestAssured.given()
